@@ -1,4 +1,4 @@
-# Hi there, I'm Ryo Sato 👋
+# ハロー(Hello), I'm Ryo Sato 👋
 
 I am a Software Engineer focused on web application development. 
 I am passionate about writing robust, maintainable code and improving team development efficiency through tools and optimized processes.
